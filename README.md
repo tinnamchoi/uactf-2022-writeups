@@ -1,2 +1,27 @@
 # uactf-2022-writeups
-Solutions from our team (tmt)
+
+## Our team
+
+|           |                 |
+| --------- | --------------- |
+| Team      | tmt             |
+| Country   | Hong Kong       |
+| Placement | 36th out of 447 |
+| Points    | 1945 points     |
+| Captain   | tinnamchoi      |
+| Member(s) | covector        |
+
+## Our solves
+
+| Challenge              | Category  | Value | Time (ACST)     |
+| ---------------------- | --------- | ----- | --------------- |
+| Welcome                | misc      | 5     | 20220730-111534 |
+| Non-textual Troubles   | crypto    | 50    | 20220730-121927 |
+| Sanity Check           | reversing | 50    | 20220730-131344 |
+| Lighthouse             | misc      | 489   | 20220730-185621 |
+| Juggler                | web       | 383   | 20220731-102940 |
+| Snake Equality         | misc      | 364   | 20220731-121418 |
+| Peter works at Bendigo | crypto    | 50    | 20220731-183155 |
+| Colour Blind           | forensics | 50    | 20220731-192208 |
+| Feedback               | misc      | 50    | 20220731-195213 |
+| Blurry-Eyed            | misc      | 454   | 20220731-230054 |
