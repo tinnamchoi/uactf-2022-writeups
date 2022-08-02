@@ -20,4 +20,4 @@
 * Result: 
 ![Modular equation solver results](Images/modular-equation-solver.png)
 
-This solution was a collaborative effort with @covector. 
+This solution was a collaborative effort with [@covector](https://github.com/covector). 

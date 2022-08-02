@@ -2,14 +2,14 @@
 
 ## Our team
 
-| Field     | Value           |
-| --------- | --------------- |
-| Team      | tmt             |
-| Country   | Hong Kong       |
-| Placement | 36th out of 447 |
-| Points    | 1945 points     |
-| Captain   | tinnamchoi      |
-| Member(s) | covector        |
+| Field     | Value                                             |
+| --------- | ------------------------------------------------- |
+| Team      | tmt                                               |
+| Country   | Hong Kong                                         |
+| Placement | 36th out of 447                                   |
+| Points    | 1945 points                                       |
+| Captain   | [@tinnamchoi](https://github.com/tinnamchoi) (me) |
+| Member(s) | [@covector](https://github.com/covector)          |
 
 ## Our solves
 

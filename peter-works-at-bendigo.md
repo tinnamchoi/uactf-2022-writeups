@@ -9,4 +9,4 @@
 
 Not a perfect solution but at least narrows it down to just 20 possibilities. 
 
-This solution was a collaborative effort with @covector. 
+This solution was a collaborative effort with [@covector](https://github.com/covector). 
