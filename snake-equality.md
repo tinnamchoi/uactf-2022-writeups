@@ -33,10 +33,10 @@ If we choose `n` to be [the largest number that Python will still cache](https:/
 n = 256
 c = "Ā" # U+0100, 0100 being 256 in hexadecimal
 
-if  n    is    ord(c)   and   n+1      is not   ord(c) + 1:
-# ⇒256      ⇒ord("Ā")     ⇒256+1           ⇒ord("Ā") + 1
-#    ⋮        ⇒256          ⇒257             ⇒256 + 1
-#    ⋮           ⋮               ⋮              ⇒257
-# ⇒≤256     ⇒≤256         ⇒>256            ⇒>256
-# ⇒Cached   ⇒Cached       ⇒Not cached      ⇒Not cached
+if  n    is    ord(c)    and    n+1    is not    ord(c) + 1:
+# ⇒256      ⇒ord("Ā")       ⇒256+1          ⇒ord("Ā") + 1
+#    ⋮        ⇒256            ⇒257            ⇒256 + 1
+#    ⋮           ⋮                 ⋮             ⇒257
+# ⇒≤256     ⇒≤256           ⇒>256           ⇒>256
+# ⇒Cached   ⇒Cached         ⇒Not cached     ⇒Not cached
 ```
