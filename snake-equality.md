@@ -40,3 +40,5 @@ if  n    is    ord(c)    and    n+1    is not    ord(c) + 1:
 # ⇒≤256     ⇒≤256           ⇒>256           ⇒>256
 # ⇒Cached   ⇒Cached         ⇒Not cached     ⇒Not cached
 ```
+
+This solution was a collaborative effort with [@covector](https://github.com/covector). 

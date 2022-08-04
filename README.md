@@ -25,3 +25,5 @@
 | [Colour Blind](colour-blind.md)                     | forensics | 50    | 20220731-192208 |
 | Feedback (freebie)                                  | misc      | 50    | 20220731-195213 |
 | [Blurry-Eyed](blurry-eyed.md)                       | misc      | 454   | 20220731-230054 |
+
+All solutions by me unless otherwise stated. 
