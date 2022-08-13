@@ -19,10 +19,10 @@
 | Welcome (freebie)                                   | misc      | 5     | 20220730-111534 | N/A                   |
 | [Non-textual Troubles](non-textual-troubles.md)     | crypto    | 50    | 20220730-121927 | tinnamchoi            |
 | [Sanity Check](sanity-check.md)                     | reversing | 50    | 20220730-131344 | tinnamchoi            |
-| [Lighthouse](lighthouse.md)                         | misc      | 489   | 20220730-185621 | tinnamchoi & covector |
+| [Lighthouse](lighthouse.md)                         | misc      | 489   | 20220730-185621 | covector & tinnamchoi |
 | [Juggler](juggler.md)                               | web       | 383   | 20220731-102940 | covector              |
-| [Snake Equality](snake-equality.md)                 | misc      | 364   | 20220731-121418 | tinnamchoi & covector |
-| [Peter works at Bendigo](peter-works-at-bendigo.md) | crypto    | 50    | 20220731-183155 | tinnamchoi & covector |
+| [Snake Equality](snake-equality.md)                 | misc      | 364   | 20220731-121418 | covector & tinnamchoi |
+| [Peter works at Bendigo](peter-works-at-bendigo.md) | crypto    | 50    | 20220731-183155 | covector & tinnamchoi |
 | [Colour Blind](colour-blind.md)                     | forensics | 50    | 20220731-192208 | tinnamchoi            |
 | Feedback (freebie)                                  | misc      | 50    | 20220731-195213 | N/A                   |
 | [Blurry-Eyed](blurry-eyed.md)                       | misc      | 454   | 20220731-230054 | tinnamchoi            |
